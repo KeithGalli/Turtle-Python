@@ -3,7 +3,7 @@ import math
 import random
 
 bob = turtle.Turtle()
-turtle.colormode(255)
+bob.color("red")
 bob.speed(10)
 
 for i in range(2000):
